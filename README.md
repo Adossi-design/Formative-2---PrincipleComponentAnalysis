@@ -2,7 +2,7 @@
 
 This repository presents my implementation of **Principal Component Analysis (PCA)** as part of **Formative Assignment 2** for the Advanced Linear Algebra chapter.
 
-The project focuses on applying core linear algebra concepts—such as covariance, eigenvalues, eigenvectors, and variance decomposition—to analyze and reduce the dimensionality of an African malaria dataset using **NumPy-based computations only**.
+The project focuses on applying core linear algebra concepts such as covariance, eigenvalues, eigenvectors, and variance decomposition to analyze and reduce the dimensionality of an African malaria dataset using **NumPy-based computations only**.
 
 ---
 
@@ -20,6 +20,7 @@ The objective of this project is to:
 ## Dataset Description
 
 **Dataset used:**  
+
 `DatasetAfricaMalaria.csv`
 
 The dataset contains malaria-related indicators collected across African regions. It includes multiple numerical features and initially contained missing values.
@@ -45,6 +46,7 @@ All steps of PCA were implemented manually without relying on high-level machine
 The full implementation is available in the notebook below.
 
 **Notebook:**  
+
 `PCA_Formative_2_AdossiFredWilliam.ipynb`
 
 ---
