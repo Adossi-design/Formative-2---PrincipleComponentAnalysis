@@ -71,7 +71,7 @@ pip install numpy pandas matplotlib
 **1.** Clone the repository:
 
 ```bash
-git clone [<your-repository-link>](https://github.com/Adossi-design/Formative-2---PrincipleComponentAnalysis.git)
+git clone https://github.com/Adossi-design/Formative-2---PrincipleComponentAnalysis.git
 ```
 
 **2.** Open the project directory.
