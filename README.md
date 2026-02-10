@@ -1,6 +1,6 @@
 # Principal Component Analysis (PCA) – Formative Assignment 2
 
-This repository presents my implementation of **Principal Component Analysis (PCA)** as part of **Formative Assignment 2** for the Advanced Linear Algebra course.
+This repository presents my implementation of **Principal Component Analysis (PCA)** as part of **Formative Assignment 2** for the Advanced Linear Algebra chapter.
 
 The project focuses on applying core linear algebra concepts—such as covariance, eigenvalues, eigenvectors, and variance decomposition—to analyze and reduce the dimensionality of an African malaria dataset using **NumPy-based computations only**.
 
@@ -69,7 +69,7 @@ pip install numpy pandas matplotlib
 **1.** Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone [<your-repository-link>](https://github.com/Adossi-design/Formative-2---PrincipleComponentAnalysis.git)
 ```
 
 **2.** Open the project directory.
